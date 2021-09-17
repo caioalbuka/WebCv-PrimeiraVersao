@@ -1,0 +1,11 @@
+.tituloComp {
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 30px;
+    background-color: #fff;
+    color: rgb(116, 126, 214);
+    text-align: center;
+    border: 3px solid rgb(67, 138, 179);
+    border-radius: 10px;
+    overflow: hidden;
+}
