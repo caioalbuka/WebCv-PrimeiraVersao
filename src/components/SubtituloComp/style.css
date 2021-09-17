@@ -1,0 +1,11 @@
+.subtituloComp {
+    font-family: Arial;
+    font-weight: 100;
+    font-size: 20px;
+    background-color: rgb(55, 125, 182);
+    color: #fff;
+    text-align: center;
+    border: 2px solid rgb(21, 69, 107);
+    border-radius: 8px;
+    overflow: hidden;
+}

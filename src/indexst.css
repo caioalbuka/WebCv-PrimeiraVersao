@@ -1,13 +1,76 @@
-
 body {
-    
-    
     font-family: Arial;
     font-weight: 300;
     font-size: 4rem;
-    background-color: #444;
+    background-color: rgb(83, 146, 197);
+    color: #fff;
+    text-align: center;
+}
+
+.topo{
+
+    display: flex;
+    flex-direction: row;
+    
+    width: 1230px;
+    height: 150px;
+    font-family: Arial;
+    font-size: 30px;
+    background-color: rgb(70, 142, 201);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid rgb(43, 127, 196);
+    border-radius: 30px;
+    border-top-right-radius:  100px;
+    border-end-end-radius: 100px;
+    overflow: hidden;
+  
+}
+
+
+a {
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 30px;
+    background-color: rgb(16, 136, 235);
     color: #fff;
     text-align: center;
     
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid rgb(21, 69, 107);
+    border-radius: 10px;
+    overflow: hidden;
+    
+
 
 }
+
+
+
+.bodydiv{
+
+	display: flex;
+    flex-direction: row;
+    flex-flow: row;
+    
+    width: 110%;
+	
+}
+.trabalhodiv{
+
+	display: flex;
+    flex-direction: row;
+    flex-flow: row;
+    padding: 10px;
+    border: 3px;
+    width: 110%;
+	
+}
+
+
+
+
+

@@ -1,0 +1,9 @@
+.img {
+    background-color: rgb(83, 146, 197);
+    color: #fff;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    border-top-right-radius:  100px;
+    border-end-end-radius: 100px;
+}

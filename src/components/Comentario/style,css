@@ -1,0 +1,15 @@
+.comentario {
+    font-family: Arial;
+    font-weight: 300px;
+    font-size: 30px;
+    background-color: rgb(83, 146, 197);
+    color: #000;
+    text-align: center;
+    overflow: hidden;
+    display: flex;
+    width: 500px;
+    height: 200px auto;
+    flex-direction: column;
+    padding: 10px;
+    font-style: italic;
+}

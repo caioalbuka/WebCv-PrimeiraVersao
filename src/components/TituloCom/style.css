@@ -1,0 +1,12 @@
+.tituloCom {
+    font-family: Arial;
+    font-weight: 300;
+    font-size: 30px;
+    background-color: rgb(42, 97, 143);
+    color: #fff;
+    text-align: center;
+
+    border: 3px solid rgb(21, 69, 107);
+    border-radius: 10px;
+    overflow: hidden;
+}
