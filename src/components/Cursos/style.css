@@ -1,0 +1,10 @@
+.cursos {
+    font-family: Arial;
+    font-weight: 100;
+    font-size: 25px;
+    background-color: rgb(55, 125, 182);
+    color: #fff;
+    text-align: center;
+    border-radius: 8px;
+    overflow: hidden;
+}
